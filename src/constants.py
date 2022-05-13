@@ -1,0 +1,6 @@
+FILE_PREFIX = "weather."
+FILE_EXT = ".csv"
+MODULE_PATH = "/tmp/Projects/weather-analysis"
+DATA_DIR = MODULE_PATH + "/data/"
+REPORT_DIR = MODULE_PATH + "/reports/"
+PARQ_DIR = MODULE_PATH + "/part_files/"
